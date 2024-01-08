@@ -49,6 +49,12 @@ max_length=1024		# samples will be cut beyond this number of tokens
 output_dir=f"out"
 ```
 
+### To run qlora.py, please install all requirements with:
+
+```
+pip install -r requirements.txt
+```
+
 ### Run
 
 ```bash
