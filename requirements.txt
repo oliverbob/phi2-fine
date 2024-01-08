@@ -5,3 +5,6 @@ transformers
 peft
 datasets
 einops
+torch>=1.10
+torchvision
+torchaudio
